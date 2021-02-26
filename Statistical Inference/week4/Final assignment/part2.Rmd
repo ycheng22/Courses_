@@ -1,0 +1,182 @@
+---
+title: 'Part2: Basic Inferential Data Analysis on ToothGrowth Dataset'
+author: "Yunpeng Cheng"
+date: "9/15/2020"
+output:
+  pdf_document: default
+  html_document: default
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Overview
+
+Now in the second portion of the project, we're going to analyze the ToothGrowth data in the R datasets package.
+
+1. Load the ToothGrowth data and perform some basic exploratory data analyses
+2. Provide a basic summary of the data.
+3. Use confidence intervals and/or hypothesis tests to compare tooth growth by supp and dose. (Only use the techniques from class, even if there's other approaches worth considering)
+4. State your conclusions and the assumptions needed for your conclusions.
+
+## 1 Exploratory Data Analyses
+
+Load the ToothGrowth dataset and perform some basic exploratory data analyses.
+
+```{r}
+library(ggplot2)
+library(datasets)
+data(ToothGrowth)
+str(ToothGrowth)
+tg <- ToothGrowth
+
+```
+
+There are two kinds of supplements, the tooth length is corresponding to supplements and dose. 
+```{r}
+
+levels(tg$supp) <- c("Orange Juice", "Ascorbic Acid")
+g <- ggplot(tg, aes(x=factor(dose), y=len))
+g <- g+ facet_grid(.~supp)
+g <- g+ geom_boxplot(aes(fill=supp))
+g <- g+ labs(title="Tooth Length with Dosage for Each Supplement")
+g <- g+ labs(x="Dose (mg/day)", y="Tooth Length")
+
+print(g)
+
+```
+
+From the boxplot, for 0.5 and 1 mg/day dosages, the average tooth length of orange juice is higher than that of aocorbic acid, which means the orange juice works better at those dosage. For 2 mg/day dosage, both average are the same, but the variance of orange juice is lower. 
+
+
+## 2 Summary of ToothGrowth Dataset
+
+
+Head of the dataset.
+```{r}
+head(tg)
+
+```
+
+Summary of the dataset.
+```{r}
+summary(tg)
+
+```
+
+## 3 Hypothesis Test
+
+### 3.1 Hypothesis test on delivery method
+
+Null hypothesis: for dose x mg/day, the delivery method have same effect on tooth growth, significance level is 5%. 
+
+  + For dose x= 0.5 mg/day:
+  
+```{r}
+dose05 <- t.test(len ~ supp, data=subset(tg, dose==0.5))
+dose05$conf.int
+
+```
+```{r}
+dose05$p.value
+```
+  
+  + For dose x= 1 mg/day:  
+
+```{r}
+dose1 <- t.test(len ~ supp, data=subset(tg, dose==1))
+dose1$conf.int
+
+```
+```{r}
+dose1$p.value
+```
+ 
+  + For dose x= 2 mg/day:  
+
+```{r}
+dose2 <- t.test(len ~ supp, data=subset(tg, dose==2))
+dose2$conf.int
+
+```
+```{r}
+dose2$p.value
+```
+
+From above P value and confidence interval, for dose=0.5 and 1 mp/day, the null hypothesis can't be rejected, which means the delivery method have same effect on tooth growth.
+
+But for dose=2 mp/day, the null hypothesis should be rejected. which means the delivery method have different effect on tooth growth.
+
+These conclusions can be verified from the box plot. 
+
+### 3.2 Hypothesis test on dose
+
+Null hypothesis: for same delivery method, different dose have same effect on tooth growth, significance level is 5%. 
+Taking the data with orange juice method as an example.
+
+Preparing the data.
+  
+```{r}
+supp_oj <- subset(tg, supp=="Orange Juice")
+summary(supp_oj)
+supp_oj_051 <- subset(supp_oj, dose %in% c(0.5, 1.0))
+supp_oj_052 <- subset(supp_oj, dose %in% c(0.5, 2.0))
+supp_oj_12 <- subset(supp_oj, dose %in% c(1.0, 2.0))
+```
+```{r}
+summary(supp_oj_051)
+```
+
+ + For dose x= 0.5 and 1 mg/day:  
+
+```{r}
+supp_oj_051_test <- t.test(len ~ dose, paired=F, var.equal=F, data=supp_oj_051)
+supp_oj_051_test$conf.int
+
+```
+
+```{r}
+supp_oj_051_test$p.value
+```
+
++ For dose x= 0.5 and 2 mg/day:  
+
+```{r}
+supp_oj_052_test <- t.test(len ~ dose, paired=F, var.equal=F, data=supp_oj_052)
+supp_oj_052_test$conf.int
+
+```
+
+```{r}
+supp_oj_052_test$p.value
+```
+
++ For dose x= 1 and 2 mg/day:  
+
+```{r}
+supp_oj_12_test <- t.test(len ~ dose, paired=F, var.equal=F, data=supp_oj_12)
+supp_oj_12_test$conf.int
+
+```
+
+```{r}
+supp_oj_12_test$p.value
+```
+
+All of the confidence intervals exclude 0, and p value is always less than 0.5, so the null hypothesis should be rejected. Hence different dose have different effect on the tooth growth. 
+
+## 4 Conclusions and Assumptions
+
+### Conclusions:
+
++ The delivery method don't have obvious different effect on tooth growth.
++ The dose have significant influence on tooth growth.
++ 2 mp/day dose has larger effect on tooth growth than 0.5 and 1 mp/day dose. 
+
+### Assumptions:
+
++ The samples are not paired.
++ Variance in each group are different.
++ All samples are randomly selected. 
+
