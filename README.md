@@ -15,26 +15,26 @@ This repo will store the materials of the courses I had taken.
 ## Natural language processing
 - [Natural language processing_Specialization](https://github.com/ycheng22/Courses_/tree/main/NLP%20Specialization)
 
-## Statistics
-- [Statistical Inference](https://github.com/ycheng22/Courses_/tree/main/Statistical%20Inference)
-
-## Finance
-
-- [Machine_Learning for Trading Specialization](https://github.com/ycheng22/Courses_/tree/main/ML%20for%20Trading%20Specialization)
-
-## Visualization
-- [Data Visualization and Communication with Tableau](https://github.com/ycheng22/Courses_/tree/main/Data%20Visualization%20and%20Communication%20with%20Tableau)
-- [Power BI Masterclass](https://github.com/ycheng22/Courses_/tree/main/Power%20BI%20Masterclass)
-
-## SQL
-
-- [Databases and SQL for Data Science](https://github.com/ycheng22/Courses_/tree/main/Databases%20and%20SQL%20for%20Data%20Science)
-
 ## Data Science
 
 - [DataCamp-Data Scientis with Python Track](https://github.com/ycheng22/Courses_/tree/main/Data_Camp)
 
 - [How to Win a Data Science Competition: Learn from Top Kagglers](https://github.com/ycheng22/Courses_/tree/main/How%20to%20Win%20a%20Data%20Science%20Competition%20Learn%20from%20Top%20Kagglers)
+
+## Statistics
+- [Statistical Inference](https://github.com/ycheng22/Courses_/tree/main/Statistical%20Inference)
+
+## SQL
+
+- [Databases and SQL for Data Science](https://github.com/ycheng22/Courses_/tree/main/Databases%20and%20SQL%20for%20Data%20Science)
+
+## Visualization
+- [Data Visualization and Communication with Tableau](https://github.com/ycheng22/Courses_/tree/main/Data%20Visualization%20and%20Communication%20with%20Tableau)
+- [Power BI Masterclass](https://github.com/ycheng22/Courses_/tree/main/Power%20BI%20Masterclass)
+
+## Finance
+
+- [Machine_Learning for Trading Specialization](https://github.com/ycheng22/Courses_/tree/main/ML%20for%20Trading%20Specialization)
 
 ## Others
 
