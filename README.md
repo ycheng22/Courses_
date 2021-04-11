@@ -39,3 +39,4 @@ This repo will store the materials of the courses I had taken.
 ## Others
 
 - [Scalable Machine Learning on Big Data using Apache Spark](https://github.com/ycheng22/Courses_/tree/main/Scalable%20Machine%20Learning%20on%20Big%20Data%20using%20Apache%20Spark)
+- [Udacity_Data_Engineer_Nanodegree](https://github.com/ycheng22/Udacity_Data_Engineer_Nanodegree)
