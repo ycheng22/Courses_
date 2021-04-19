@@ -17,7 +17,7 @@ This repo will store the materials of the courses I had taken.
 
 ## Data Science
 
-- [DataCamp-Data Scientis with Python Track](https://github.com/ycheng22/Courses_/tree/main/Data_Camp)
+- [DataCamp-Data Scientist with Python Track](https://github.com/ycheng22/Courses_/tree/main/Data_Camp)
 
 - [How to Win a Data Science Competition: Learn from Top Kagglers](https://github.com/ycheng22/Courses_/tree/main/How%20to%20Win%20a%20Data%20Science%20Competition%20Learn%20from%20Top%20Kagglers)
 
@@ -35,6 +35,7 @@ This repo will store the materials of the courses I had taken.
 ## Finance
 
 - [Machine_Learning for Trading Specialization](https://github.com/ycheng22/Courses_/tree/main/ML%20for%20Trading%20Specialization)
+- [CFA level I badge]()
 
 ## Others
 
