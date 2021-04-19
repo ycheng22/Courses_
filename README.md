@@ -17,7 +17,7 @@ This repo will store the materials of the courses I had taken.
 
 ## Data Science
 
-- [DataCamp-Data Scientist with Python Track](https://github.com/ycheng22/Courses_/tree/main/Data_Camp)
+- [DataCamp: Data Scientist with Python Track](https://github.com/ycheng22/Courses_/tree/main/Data_Camp)
 
 - [How to Win a Data Science Competition: Learn from Top Kagglers](https://github.com/ycheng22/Courses_/tree/main/How%20to%20Win%20a%20Data%20Science%20Competition%20Learn%20from%20Top%20Kagglers)
 
@@ -40,4 +40,4 @@ This repo will store the materials of the courses I had taken.
 ## Others
 
 - [Scalable Machine Learning on Big Data using Apache Spark](https://github.com/ycheng22/Courses_/tree/main/Scalable%20Machine%20Learning%20on%20Big%20Data%20using%20Apache%20Spark)
-- [Udacity_Data_Engineer_Nanodegree](https://github.com/ycheng22/Udacity_Data_Engineer_Nanodegree)
+- [Udacity: Data_Engineer_Nanodegree](https://github.com/ycheng22/Udacity_Data_Engineer_Nanodegree)
