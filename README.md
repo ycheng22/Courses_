@@ -35,7 +35,7 @@ This repo will store the materials of the courses I had taken.
 ## Finance
 
 - [Machine_Learning for Trading Specialization](https://github.com/ycheng22/Courses_/tree/main/ML%20for%20Trading%20Specialization)
-- [CFA level I badge]()
+- [CFA level I badge](https://github.com/ycheng22/Courses_/blob/main/Level%20I%20Badge.png)
 
 ## Others
 
