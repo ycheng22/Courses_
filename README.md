@@ -37,6 +37,9 @@ This repo will store the materials of the courses I had taken.
 - [Data Visualization and Communication with Tableau](https://github.com/ycheng22/Courses_/tree/main/Data%20Visualization%20and%20Communication%20with%20Tableau)
 - [Power BI Masterclass](https://github.com/ycheng22/Courses_/tree/main/Power%20BI%20Masterclass)
 
+## Excel
+- [Excel Skills for Business Specialization](https://github.com/ycheng22/Courses_/tree/main/Excel%20Skills%20for%20Business%20Specialization)
+
 ## Finance
 
 - [Machine_Learning for Trading Specialization](https://github.com/ycheng22/Courses_/tree/main/ML%20for%20Trading%20Specialization)
