@@ -23,7 +23,7 @@ This repo will store the materials of the courses I had taken.
 - [A/B Testing, A Data Science Perspective](https://www.oreilly.com/library/view/ab-testing-a/9781491934777/)
 
 ## Computer Vision
-- [Computer Vision](https://github.com/ycheng22/Courses_/)
+- [Computer Vision](https://github.com/ycheng22/Courses_/tree/main/Udacity_Computer_Vision)
 
 ## Statistics
 - [Statistical Inference](https://github.com/ycheng22/Courses_/tree/main/Statistical%20Inference)
