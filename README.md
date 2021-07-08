@@ -21,6 +21,7 @@ This repo will store the materials of the courses I had taken.
 
 - [How to Win a Data Science Competition: Learn from Top Kagglers](https://github.com/ycheng22/Courses_/tree/main/How%20to%20Win%20a%20Data%20Science%20Competition%20Learn%20from%20Top%20Kagglers)
 - [A/B Testing, A Data Science Perspective](https://www.oreilly.com/library/view/ab-testing-a/9781491934777/)
+- [Google Data Analytics Professional Certificate](https://github.com/ycheng22/Courses_/tree/main/Google%20Data%20Analytics%20Professional%20Certificate)
 
 ## Computer Vision
 - [Udacity: Computer Vision Nanodegree](https://github.com/ycheng22/Courses_/tree/main/Udacity_Computer_Vision)
