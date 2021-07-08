@@ -1,4 +1,4 @@
-This is course: [Google Data Analytics Professional Certificate](https://www.coursera.org/professional-certificates/google-data-analytics).
+This course is: [Google Data Analytics Professional Certificate](https://www.coursera.org/professional-certificates/google-data-analytics).
 
 - Course 1: [Foundations: Data, Data, Everywhere](https://www.coursera.org/learn/foundations-data?specialization=google-data-analytics).
 
