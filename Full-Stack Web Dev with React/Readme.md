@@ -1,6 +1,6 @@
 This is a course on Cousera: [Full-Stack Web Development with React](https://www.coursera.org/specializations/full-stack-react).
 
-## Course 1: [Front-End Web UI Frameworks and Tools: Bootstrap 4](https://www.coursera.org/learn/bootstrap-4?specialization=full-stack-react).
+## Course 1: [Front-End Web UI Frameworks and Tools: Bootstrap 4](https://www.coursera.org/learn/bootstrap-4?specialization=full-stack-react)
 
 ### Week 1: Front-end Web UI Frameworks Overview: Bootstrap
 
@@ -18,7 +18,7 @@ This module concentrates on Bootstrap's JavaScript based components. You will le
 
 This module rounds out our discussions on Bootstrap JavaScript components. Then we discuss CSS preprocessors, Less and Sass. Finally, we discuss building and deployment of our Web projects through task automation using NPM scripts, and task runners like Grunt and Gulp. The final assignment of this course needs to be completed at the end of this module.
 
-## Course 2: [Front-End Web Development with React](https://www.coursera.org/learn/front-end-react?specialization=full-stack-react).
+## Course 2: [Front-End Web Development with React](https://www.coursera.org/learn/front-end-react?specialization=full-stack-react)
 
 ### Week 1: Introduction to React
 
@@ -36,7 +36,7 @@ In this module you will be introduced to uncontrolled and controlled forms and b
 
 In this module you will explore Redux further including Redux action, combining reducers, and Redux thunk, client-server communication using Fetch and the REST API. You will get a brief introduction to animation in React. You will also learn about testing, building and deploying React applications.
 
-## Course 3: [Server-side Development with NodeJS, Express and MongoDB](https://www.coursera.org/learn/server-side-nodejs?specialization=full-stack-react).
+## Course 3: [Server-side Development with NodeJS, Express and MongoDB](https://www.coursera.org/learn/server-side-nodejs?specialization=full-stack-react)
 
 ### Week 1: Introduction to Server-side Development
 
