@@ -35,10 +35,13 @@ This repo will store the materials of the courses I had taken.
 
 ## Statistics
 - [Statistical Inference](https://github.com/ycheng22/Courses_/tree/main/Statistical%20Inference)
+- [10 Days of Statistics](https://github.com/ycheng22/ycheng22.github.io/blob/master/_posts/2021-07-30-10%20Days%20of%20Statistics.md)
 
 ## SQL
 
 - [Databases and SQL for Data Science](https://github.com/ycheng22/Courses_/tree/main/Databases%20and%20SQL%20for%20Data%20Science)
+- [SQL_on_LeetCode](https://github.com/ycheng22/ycheng22.github.io/blob/master/_posts/2021-07-20-SQL_on_LeetCode.md)
+- [SQL_on_HackerRank](https://github.com/ycheng22/ycheng22.github.io/blob/master/_posts/2021-07-15-SQL_on_HackerRank.md)
 
 ## Big Data
 
