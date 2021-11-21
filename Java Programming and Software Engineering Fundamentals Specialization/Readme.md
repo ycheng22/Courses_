@@ -1,6 +1,6 @@
 This is a course on CouseraL 
 
-[# Java Programming and Software Engineering Fundamentals Specialization](https://www.coursera.org/specializations/java-programming).
+# [Java Programming and Software Engineering Fundamentals Specialization](https://www.coursera.org/specializations/java-programming).
 
 ## Course 1: [Programming Foundations with JavaScript, HTML and CSS](https://www.coursera.org/learn/duke-programming-web?specialization=java-programming).
 
