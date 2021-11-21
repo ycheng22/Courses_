@@ -7,7 +7,7 @@ This repo will store the materials of the courses I had taken.
 
 ## Software Engineer
 - [Full-Stack Web Development with React](https://github.com/ycheng22/Courses_/tree/main/Full-Stack%20Web%20Dev%20with%20React)
-- [Java Programming and Software Engineering Fundamentals Specialization](#)
+- [Java Programming and Software Engineering Fundamentals Specialization](https://github.com/ycheng22/Courses_/tree/main/Java%20Programming%20and%20Software%20Engineering%20Fundamentals%20Specialization)
 
 ## Machine Learning
 
