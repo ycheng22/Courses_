@@ -1,4 +1,4 @@
-This is a course on CouseraL 
+This is a course on Cousera provided by Duke University:
 
 # [Java Programming and Software Engineering Fundamentals Specialization](https://www.coursera.org/specializations/java-programming)
 
