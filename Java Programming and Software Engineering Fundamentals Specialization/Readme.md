@@ -1,6 +1,8 @@
 This is a course on CouseraL 
 
-# [Java Programming and Software Engineering Fundamentals Specialization](https://www.coursera.org/specializations/java-programming).
+# [Java Programming and Software Engineering Fundamentals Specialization](https://www.coursera.org/specializations/java-programming)
+
+Course materials: <https://www.dukelearntoprogram.com//>.
 
 ## Course 1: [Programming Foundations with JavaScript, HTML and CSS](https://www.coursera.org/learn/duke-programming-web?specialization=java-programming).
 
@@ -11,3 +13,4 @@ This is a course on CouseraL
 ## Course 4: [Java Programming: Principles of Software Design](https://www.coursera.org/learn/java-programming-design-principles?specialization=java-programming).
 
 ## Course 5: [Java Programming: Build a Recommendation System](https://www.coursera.org/learn/java-programming-recommender?specialization=java-programming).
+
