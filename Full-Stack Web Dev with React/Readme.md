@@ -133,14 +133,14 @@ This week gives you:
 **What I learnt:**
 
 1. Bootstrap and JQuery
-   <p align="center">
+   <p align="left">
     <img src="./Full_Stack_React_img/BJ_1.png" >
     <img src="./Full_Stack_React_img/BJ_2.png" >
     <img src="./Full_Stack_React_img/BJ_3.png" >
     <img src="./Full_Stack_React_img/BJ_4.png" >
     </p>
 2. CSS preprocessors, Less and Sass
-   <p align="center">
+   <p align="left">
     <img src="./Full_Stack_React_img/CP_1.png" >
     <img src="./Full_Stack_React_img/CP_2.png" >
     <img src="./Full_Stack_React_img/CP_3.png" >
