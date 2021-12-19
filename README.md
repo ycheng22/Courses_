@@ -14,7 +14,7 @@ This repo will store the materials of the courses I had taken.
 - [Andrew_Ng_Machine_Learning](https://github.com/ycheng22/Courses_/tree/main/Andrew_Ng_Machine_Learning)
 - [Andrew_Ng_Deep_Learning](https://github.com/ycheng22/Courses_/tree/main/Andrew_Ng_Deep_Learning)
 - [AI for Medicine Specialization](https://github.com/ycheng22/Courses_/tree/main/AI%20for%20Medicine%20Specialization)
-- [Machine Learning Engineering for Production (MLOps) Specialization]()
+- [Machine Learning Engineering for Production (MLOps) Specialization](https://github.com/ycheng22/Courses_/tree/main/Machine%20Learning%20Engineering%20for%20Production%20(MLOps)%20Specialization)
 
 ## TensorFlow
 
