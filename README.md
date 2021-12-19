@@ -22,7 +22,7 @@ This repo will store the materials of the courses I had taken.
 - [TensorFlow Advanced Techniques Specialization](https://github.com/ycheng22/Courses_/tree/main/TensorFlow%20Advanced%20Techniques%20Specialization)
 
 ## Natural language processing
-- [Natural language processing_Specialization](https://github.com/ycheng22/Courses_/tree/main/NLP%20Specialization)
+- [Natural language processing Specialization](https://github.com/ycheng22/Courses_/tree/main/NLP%20Specialization)
 
 ## Data Science
 
