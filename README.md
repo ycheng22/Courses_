@@ -1,6 +1,8 @@
 # Courses_
 This repo will store the materials of the courses I had taken.
 
+## [OMSCS Courses](https://github.com/ycheng22/OMSCS_Courses/)
+
 ## Data Structure and Algorithm
 
 - [Data Structures and Algorithms Specialization](https://github.com/ycheng22/Courses_/tree/main/Data%20Structures%20and%20Algorithms%20Specialization)
