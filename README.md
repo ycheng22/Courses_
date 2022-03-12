@@ -2,6 +2,8 @@
 This repo will store the materials of the courses I had taken.
 
 ## [OMSCS Courses](https://github.com/ycheng22/OMSCS_Courses/)
+- [CS 7643: Deep Learning]()
+- [CSE 6242: Data and Visual Analytics]()
 
 ## Data Structure and Algorithm
 
